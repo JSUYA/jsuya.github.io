@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T00:30:11.020Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="oSq66FTpXIEHvONCPW8s" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T00:31:28.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="yXvdsvAp1Zo7tFhujqAa" version="14.7.2" type="github">
   <diagram id="lSuKyoTsd-JbeZZMVlVd" name="Page-1">
     <mxGraphModel dx="4062" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Mn9A5CO2W3B-8fmoUiXl-1" value="Tizen.NUI" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="-1510" y="60" width="1750" height="990" as="geometry" />
+          <mxGeometry x="-1530" y="60" width="1770" height="990" as="geometry" />
         </mxCell>
         <mxCell id="Mn9A5CO2W3B-8fmoUiXl-2" value="CanvasView : VIew" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="Mn9A5CO2W3B-8fmoUiXl-1" vertex="1">
           <mxGeometry x="20" y="92" width="240" height="130" as="geometry">
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mn9A5CO2W3B-8fmoUiXl-8" value="Shape : Drawable" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="Mn9A5CO2W3B-8fmoUiXl-1" vertex="1">
-          <mxGeometry x="20" y="372" width="740" height="502" as="geometry">
+          <mxGeometry x="40" y="372" width="740" height="502" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -282,6 +282,16 @@
         <mxCell id="ehY5GEVqbj9BuwoKQ0xz-60" value="+~RadialGradient()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ehY5GEVqbj9BuwoKQ0xz-58">
           <mxGeometry y="168" width="330" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="ehY5GEVqbj9BuwoKQ0xz-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Mn9A5CO2W3B-8fmoUiXl-1" source="ehY5GEVqbj9BuwoKQ0xz-63" target="Mn9A5CO2W3B-8fmoUiXl-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="956" y="601" />
+              <mxPoint x="956" y="970" />
+              <mxPoint x="20" y="970" />
+              <mxPoint x="20" y="593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ehY5GEVqbj9BuwoKQ0xz-63" value="Fill" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Mn9A5CO2W3B-8fmoUiXl-1">
           <mxGeometry x="1160" y="530" width="362.5" height="142" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
@@ -343,7 +353,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-335" y="410" />
-              <mxPoint x="-916" y="410" />
+              <mxPoint x="-936" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
