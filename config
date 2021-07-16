@@ -1,0 +1,30 @@
+[global_config]
+  title_font = Inconsolata Medium 9
+[keybindings]
+  move_tab_left = <Primary><Shift><Alt>underscore
+  move_tab_right = <Primary><Shift><Alt>plus
+  next_tab = <Primary><Shift>Right
+  prev_tab = <Primary><Shift>Left
+  resize_down = <Primary>Down
+  resize_left = <Primary>Left
+  resize_right = <Primary>Right
+  resize_up = <Primary>Up
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    cursor_color = "#aaaaaa"
+    cursor_shape = ibeam
+    font = DejaVu Sans Mono 9
+    foreground_color = "#ffffff"
+    scrollback_infinite = True
+    use_system_font = False
+  [[New Profile 2]]
+    cursor_color = "#aaaaaa"
