@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T10:59:07.123Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="znZv633I6Qh8_yCplG8J" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T11:00:06.532Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XJV_qOmHWhnnpZhvZBAf" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1001" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,18 @@
             <mxPoint x="450" y="400" as="sourcePoint" />
             <mxPoint x="610" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hRv-tPEu-vGQIdk5XRH5-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="720" as="sourcePoint" />
+            <mxPoint x="300" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hRv-tPEu-vGQIdk5XRH5-35" value="Embedding(Flutter-tizen)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hRv-tPEu-vGQIdk5XRH5-36" value="Embedder(engine)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="25" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
